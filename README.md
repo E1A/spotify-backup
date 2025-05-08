@@ -1,7 +1,8 @@
 spotify-backup
 ==============
 
-Forked it bc i got some erros with an normal (non-json) dump due to deleted songs, probably won't maintain any further. Love 2 the spotify API <3 (still missing 2fa tho)
+> [!NOTE]  
+> Forked it bc i got some erros with an normal (non-json) dump due to deleted songs, probably won't maintain any further. Love 2 the spotify API <3 (still missing 2fa tho)
 
 A Python script that exports all of your Spotify playlists, useful for paranoid Spotify users like me, afraid that one day Spotify will go under and take all of our playlists with it!
 
